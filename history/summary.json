@@ -22,18 +22,19 @@
     "url": "https://www.gary.ie",
     "icon": "https://favicons.githubusercontent.com/www.gary.ie",
     "slug": "gary-mathews",
-    "status": "up",
-    "uptime": "93.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.41%",
-    "uptimeMonth": "93.41%",
-    "uptimeYear": "93.41%",
+    "status": "down",
+    "uptime": "94.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "94.00%",
+    "uptimeYear": "94.00%",
     "time": 1174,
     "timeDay": 1044,
     "timeWeek": 1174,
     "timeMonth": 1174,
     "timeYear": 1174,
     "dailyMinutesDown": {
+      "2020-12-08": 0,
       "2020-12-06": 441
     }
   }
