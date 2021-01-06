@@ -10,6 +10,7 @@ sites:
     url: https://www.gary.ie
 
 status-website:
+  css: ".logo img {width:180px;height:auto;}"
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.moorelegaltechnology.co.uk
   # Uncomment the following line if you don't have a custom domain and add your repo name
