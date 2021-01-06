@@ -4,8 +4,10 @@ repo: uptimes # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: MooreLegal Main Site
+  - name: Moore Legal Technology
     url: https://www.moorelegaltechnology.co.uk
+  - name: Your Law Firm Your Succes
+    url: https://yourlawfirmsuccess.co.uk
   - name: Gary Mathews
     url: https://www.gary.ie
 
