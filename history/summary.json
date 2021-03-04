@@ -4,9 +4,9 @@
     "url": "https://www.moorelegaltechnology.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.moorelegaltechnology.co.uk",
     "slug": "moore-legal-technology",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 465,
     "timeMonth": 502,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-04": 0
+    }
   },
   {
     "name": "Your Law Firm Your Succes",
@@ -47,11 +49,11 @@
     "icon": "https://favicons.githubusercontent.com/www.gary.ie",
     "slug": "gary-mathews",
     "status": "up",
-    "uptime": "88.25%",
+    "uptime": "88.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.95%",
-    "uptimeYear": "88.25%",
+    "uptimeYear": "88.36%",
     "time": 1616,
     "timeDay": 3819,
     "timeWeek": 2518,
